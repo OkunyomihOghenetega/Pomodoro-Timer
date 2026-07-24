@@ -28,17 +28,6 @@ https://okunyomihoghenetega.github.io/Pomodoro-Timer/
 - Working with audio in JavaScript
 - Creating responsive layouts with CSS
 
-## Project Structure
-Pomodoro-Timer/
-│
-├── index.html
-├── style.css
-├── index.js
-│
-└── Sounds/
-├── alarm.mp3
-├── startSound.mp3
-└── pauseSound.mp3
 
 ## Future Improvements
 Some features I would like to add in the future:
